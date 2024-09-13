@@ -1,2 +1,1 @@
-# fluppybird
-flappybird if it was made on a £0.01 budget
+flappybird on a 1p budget
